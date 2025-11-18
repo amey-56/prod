@@ -15,14 +15,7 @@ const experiences = [
     description:
       'Built financial models, performed market research, and translated complex datasets into actionable business insights.',
   },
-  {
-    company: 'On-Campus Leadership',
-    role: 'Product & Strategy Projects',
-    period: '2024–Present',
-    tags: ['Product Thinking', 'User Flows', 'Go-to-Market', 'PM Frameworks'],
-    description:
-      'Led product case competitions, created wireframes and user journey maps, and developed GTM strategies for hypothetical launches.',
-  },
+ 
 ];
 
 export default function Experience() {
