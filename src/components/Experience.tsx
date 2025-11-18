@@ -10,7 +10,7 @@ const experiences = [
   {
     company: 'Phoenix Global',
     role: 'Financial Analyst',
-    period: '2023',
+    period: '2024',
     tags: ['Financial Modeling', 'Data Storytelling', 'Business Intelligence', 'Analytics'],
     description:
       'Built financial models, performed market research, and translated complex datasets into actionable business insights.',
